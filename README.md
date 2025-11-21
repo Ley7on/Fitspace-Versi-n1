@@ -1,11 +1,12 @@
-Fitspace - Plataforma de acompañamiento y gestión de gimnasios
+# Fitspace - Plataforma de acompañamiento y gestión de gimnasios
 
-Fitspace es una plataforma web integral de gestión para gimnasios, diseñada con un enfoque modular y escalable. Desarrollada en Django y con base de datos MySQL, permite la administración eficiente de clientes, entrenadores, rutinas, pagos y más, mejorando la experiencia del usuario a través de un sistema eficiente de seguimiento de progreso, reservas y control de asistencia.
+**Fitspace** es una plataforma web integral de gestión para gimnasios, diseñada con un enfoque modular y escalable. Desarrollada en **Django** y con base de datos **MySQL**, permite la administración eficiente de clientes, entrenadores, rutinas, pagos y más, mejorando la experiencia del usuario a través de un sistema eficiente de seguimiento de progreso, reservas y control de asistencia.
 
-Estructura del Repositorio
+## Estructura del Repositorio
 
 Este repositorio contiene la siguiente estructura de directorios:
 
+```plaintext
 Fitspace/
 │
 ├── backend/                 # Código fuente del backend (Django)
